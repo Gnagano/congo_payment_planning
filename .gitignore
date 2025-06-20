@@ -1,0 +1,26 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/workspaces.json
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Backup files
+*_old.*
+*.backup

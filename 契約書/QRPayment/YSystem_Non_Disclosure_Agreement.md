@@ -16,9 +16,9 @@ This Agreement is made by the Parties to prevent the unauthorized disclosure of 
 
 (check one)
 
-☒ **Unilateral.** This Agreement shall be considered unilateral. Therefore, the 1st Party shall have sole ownership of the Confidential Information, with the 2nd Party being prohibited from disclosing confidential and proprietary information that is or has been released by the 1st Party.
+☐ **Unilateral.** This Agreement shall be considered unilateral. Therefore, the 1st Party shall have sole ownership of the Confidential Information, with the 2nd Party being prohibited from disclosing confidential and proprietary information that is or has been released by the 1st Party.
 
-☐ **Mutual.** This Agreement shall be considered mutual. Therefore, both Parties shall be prohibited from disclosing confidential and proprietary information that is or has been shared between one another.
+☒ **Mutual.** This Agreement shall be considered mutual. Therefore, both Parties shall be prohibited from disclosing confidential and proprietary information that is or has been shared between one another.
 
 ## III. PURPOSE
 
@@ -32,24 +32,26 @@ The purpose of this Agreement is for: (check one)
 
 ## IV. CONFIDENTIAL INFORMATION
 
-For the purposes of this Agreement, the term "Confidential Information" shall include, but not be limited to, documents, records, information and data (whether verbal, electronic or written), drawings, models, apparatus, sketches, designs, schedules, product plans, marketing plans, technical procedures, manufacturing processes, analyses, compilations, studies, software, prototypes, samples, formulas, methodologies, formulations, product developments, patent applications, know-how, experimental results, specifications and other business information, relating to the Party's business, assets, operations or contracts, furnished to the other Party and/or the other Party's affiliates, employees, officers, owners, agents, consultants or representatives, in the course of their work contemplated in this Agreement, regardless of whether such Confidential Information has been expressly designated as confidential or proprietary. Confidential Information also includes any and all work products, studies, and other material prepared by or in the possession or control of the other Party, which contain, include, refer to, or otherwise reflect or are generated from any Confidential Information.
+For the purposes of this Agreement, the term "Confidential Information" shall include documents, records, information and data (whether verbal, electronic or written), drawings, models, apparatus, sketches, designs, schedules, product plans, marketing plans, analyses, compilations, studies, software, prototypes, samples, patent applications, experimental results, specifications and other business information specifically relating to the Party's proprietary business operations or this specific project, furnished to the other Party and/or the other Party's affiliates, employees, officers, owners, agents, consultants or representatives, in the course of their work contemplated in this Agreement, and which has been expressly designated as confidential or proprietary. Confidential Information also includes any and all work products, studies, and other material prepared by or in the possession or control of the other Party, which contain, include, refer to, or otherwise reflect or are generated from any such specifically designated Confidential Information.
 
 However, Confidential Information does not include:
 
 (a) information generally available to the public;  
-(b) widely used programming practices or algorithms;  
-(c) information rightfully in possession of the Parties prior to signing this Agreement; and  
-(d) information independently developed without the use of any of the provided Confidential Information.
+(b) widely used programming practices, algorithms, or general methodologies;  
+(c) information rightfully in possession of the Parties prior to signing this Agreement;  
+(d) information independently developed without the use of any of the provided Confidential Information;  
+(e) general know-how, formulations, or technical procedures that are commonly used in the software development industry; and  
+(f) information that becomes publicly available through no breach of this Agreement.
 
 ## V. OBLIGATIONS
 
 The obligations of the Parties shall be to always hold and maintain the Confidential Information in the strictest of confidence and to their agents, employees, representatives, affiliates, and any other individual or entity that is on a "need to know" basis. If any such Confidential Information shall reach a third (3rd) party, or become public, all liability will be on the Party that is responsible. Neither Party shall, without the written approval of the other Party, publish, copy, or use the Confidential Information for their sole benefit. If requested, either Party shall be bound to return any and all materials to the Requesting Party as soon as possible.
 
-This Section shall not apply to the 1st Party if this Agreement is Unilateral as marked in Section II.
+This Section applies equally to both Parties as this Agreement is Mutual as marked in Section II.
 
 ## VI. TIME PERIOD
 
-The bounded Party's(ies') duty to hold the Confidential Information in confidence shall remain in effect until such information no longer qualifies as a trade secret or written notice is given releasing such Party from this Agreement.
+The bounded Party's(ies') duty to hold the Confidential Information in confidence shall remain in effect for a period of **3 years** from the date of disclosure of such information, or until such information no longer qualifies as a trade secret, whichever occurs first. Either Party may be released from this obligation with written notice from the disclosing Party.
 
 ## VII. INTEGRATION
 
@@ -65,7 +67,7 @@ The Parties acknowledge and agree that due to the unique and sensitive nature of
 
 ## X. GOVERNING LAW
 
-This Agreement shall be governed under the laws in **Hong Kong** and the **State of Tokyo**.
+The governing law and jurisdiction for this Agreement shall be determined through mutual consultation and agreement between the parties.
 
 ---
 

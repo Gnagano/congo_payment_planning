@@ -31,6 +31,8 @@ The Client shall pay the Developer for the services as per the development phase
 
 All intellectual property rights specifically created for the QR code payment feature, including but not limited to source code and documentation developed exclusively for this project, shall be owned by the Client. However, the Developer retains ownership of all pre-existing intellectual property, general methodologies, know-how, and technologies that existed prior to this agreement or that are generally applicable across multiple projects. The Developer grants the Client a perpetual, non-exclusive license to use such pre-existing technology solely in connection with the delivered Software.
 
+For existing technologies used in this project, including deliverables from past projects owned by the Client, both parties mutually grant permission for use in this project.
+
 ## 5. Change in Specifications
 
 Change requests may be made by the Client through a formal change control process. Any changes that materially alter the scope, timeline, or cost of the project must be documented in writing and approved by both parties before implementation. The Developer shall provide a written estimate of additional time and cost within 5 business days of receiving a change request. The Client's written approval is required before proceeding with any changes that incur additional costs or extend delivery timelines.

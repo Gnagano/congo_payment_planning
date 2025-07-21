@@ -99,6 +99,9 @@ https://docs.google.com/spreadsheets/d/1Oha3pD-BlQxteDLEmj3zEvidnwD3NA0DCt6Nvl-g
 | 15-Oct-25 | (c) (d) Launch the beta version | JPY 6,624,000 |
 | 17-Nov-25 | (a) (b) (c) (d) Official release | JPY 6,624,000 |
 | 1-Dec-25 | (e) Official release | JPY 6,624,000 |
+| **Total** | | **JPY 33,120,000** |
+
+*Note: Function categories (a) through (e) are detailed below*
 
 ### Function Categories
 - (a) Static QR Transactions

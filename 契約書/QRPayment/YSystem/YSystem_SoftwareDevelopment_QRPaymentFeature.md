@@ -13,9 +13,8 @@ This Software Development Agreement (the "Agreement" or "Software Development Ag
 
 - The Client hereby engages the Developer and the Developer hereby agrees to be engaged by the Client to develop the Software in accordance with the specifications.
 - The Developer shall complete the development of the Software. The final product shall be delivered to the Client by **05 December 2025**.
-- For a period **60 days** after delivery of the final product, the Developer shall provide the Client assistance in answering questions or resolving issues strictly within the scope of the specification described in Exhibit A, limited to a maximum of 40 hours of support.
+- For a period **60 days** after delivery of the final product, the Developer shall provide the Client assistance in answering questions or resolving issues strictly within the scope of the specification described in Exhibit A, including training regarding the operation and integration of the QR code payment feature, limited to a maximum of **10 hours total** of support and training combined. Additional support or training beyond this scope shall be provided under a separate service agreement at the Developer's standard rates.
 - The Client may terminate this Software Development Agreement at any time upon material breach of the terms herein and failure to cure such breach within **30 days** of notification.
-- The Developer shall provide the Client, if requested, a cumulative **5 days** of training regarding the operation and integration of the QR code payment feature after the Delivery Date. Additional training beyond this scope shall be provided under a separate service agreement at the Developer's standard rates.
 
 ## 2. Delivery
 
@@ -94,7 +93,7 @@ https://docs.google.com/spreadsheets/d/1Oha3pD-BlQxteDLEmj3zEvidnwD3NA0DCt6Nvl-g
 
 | Date | Milestone | Payment amount |
 |------|-----------|----------------|
-| 21-Jul-25 | Contract | JPY 6,624,000 |
+| Within 5 business days after contract signing | Contract | JPY 6,624,000 |
 | 15-Sep-25 | (a) (b) Launch the beta version | JPY 6,624,000 |
 | 15-Oct-25 | (c) (d) Launch the beta version | JPY 6,624,000 |
 | 17-Nov-25 | (a) (b) (c) (d) Official release | JPY 6,624,000 |

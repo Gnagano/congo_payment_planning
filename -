@@ -1,0 +1,80 @@
+	•	スクショ抜粋
+
+1. 原文抜粋
+For a period 60 days after delivery … limited to a maximum of 10 hours total of support and training combined.
+2. 日本語訳
+納品後60日間、サポートとトレーニングを合わせて最大10時間のみ提供する。
+3. 説明
+バグ修正や運用不具合が60日以降は有償。10時間では実運用サポートが不足。
+4. 修正案
+The Developer shall provide 12 months of warranty support, including unlimited remote bug fixes and up to 40 hours of training, at no additional cost.
+開発者は、追加費用なしで、納品後12か月間の保証サポート（リモートによるバグ修正は無制限、トレーニングは最大40時間まで）を提供するものとする。
+	•	スクショ抜粋
+
+1. 原文抜粋
+The Software will operate according to the Specifications for 60 days after delivery.
+2. 日本語訳
+ソフトウェアは納品後60日間のみ仕様どおりに動作することを保証する。
+3. 説明
+実稼働フェーズの欠陥が保証対象外になる恐れ。
+4. 修正案
+The Developer warrants that the Software will conform to the Specifications for one (1) year from the acceptance date, and will correct defects at no cost within that period.
+開発者は、ソフトウェアが受領日から1年間、仕様に適合することを保証し、その期間内に発見された不具合を無償で修正する。
+スクショ抜粋
+	
+
+1. 原文抜粋
+The Developer's total liability … shall not exceed the total amount paid by the Client under this agreement.
+2. 日本語訳
+開発者の累積責任は、クライアントが支払った金額が上限となる。
+3. 説明
+損害が支払総額を上回っても補償されない。
+4. 修正案
+Total liability shall not exceed 200 % of the amounts paid or USD 500,000, whichever is higher, and the cap shall not apply in cases of gross negligence or wilful misconduct.
+総賠償責任額は支払総額の200％または50万米ドルのいずれか高い方を上限とし、ただし重過失または故意の場合はこの上限を適用しない。
+スクショ抜粋
+
+1. 原文抜粋
+Developer agrees to indemnify … only in cases of gross negligence or willful misconduct.
+2. 日本語訳
+開発者が補償を行うのは「重過失または故意」の場合に限る。
+3. 説明
+通常過失でも第三者訴訟が起きればクライアントが負担。
+4. 修正案
+The Developer shall fully indemnify and defend the Client against any third-party IP infringement claims arising from the Software, regardless of fault, except where the claim results from the Client’s unauthorised modifications.
+開発者は、ソフトウェアに起因する第三者の知的財産権侵害請求について、過失の有無を問わずクライアントを全面的に補償・防御するものとし、ただしクライアントによる無断改変が原因の場合は除く。
+スクショ抜粋
+
+
+1. 原文抜粋
+The dates listed in Exhibit B … are for reference only. The Developer will inform the Client of the actual delivery dates.
+2. 日本語訳
+付属書Bのマイルストンは参考値であり、実際の納期は開発者が後で通知する。
+3. 説明
+納期遅延に対して契約上のペナルティがない。
+4. 修正案
+Milestone dates in Exhibit B shall be binding. Failure by the Developer to meet a milestone by more than 10 business days shall entitle the Client to liquidated damages of 1 % of the milestone fee per week of delay.
+付属書Bに記載されたマイルストン日は拘束力を有するものとし、開発者が当該期日から10営業日を超えて遅延した場合、クライアントは1週間の遅延につきマイルストン報酬の1％の違約金を請求できる。
+スクショ抜粋
+
+1. 原文抜粋
+The governing law and jurisdiction … shall be determined through mutual consultation.
+2. 日本語訳
+準拠法と裁判管轄は後日協議で決定する。
+3. 説明
+紛争時に適用法が不明確で手続きが長期化。
+4. 修正案
+This Agreement shall be governed by and construed in accordance with the laws of Japan, and the Tokyo District Court shall have exclusive jurisdiction over any dispute.
+本契約は日本法を準拠法とし、その解釈も同法に従うものとする。また、本契約に関して生じる一切の紛争については東京地方裁判所を専属的合意管轄裁判所とする。
+スクショ抜粋
+
+
+1. 原文抜粋
+The Software will not be deemed accepted until the Client signs the Acceptance Certificate; however, use in production constitutes acceptance.
+2. 日本語訳
+受入証明書に署名していなくても、本番利用した時点で受領とみなされる。
+3. 説明
+試験的運用でも「受領済み」とされ、保証請求が困難。
+4. 修正案
+Use in production shall not constitute acceptance unless and until the Client signs the Acceptance Certificate, which may be withheld until all critical defects are resolved.
+クライアントが受入証明書に署名し、重大な欠陥がすべて解消されるまで、本番環境での使用は受領とみなされないものとする。

@@ -44,41 +44,33 @@ Party A shall manage the materials provided by Party B with due care and shall n
 
 Party A shall return all materials provided by Party B within ten (10) days after the completion of the Services.
 
-## 10. Development Location
-
-Party A shall perform the Services at its business premises.
-
-## 11. Contact Persons
-
-Both parties shall designate contact persons for the Services and notify each other in writing, email, or other communication tools.
-
-## 12. Confidentiality
+## 10. Confidentiality
 
 Both parties shall strictly manage and not disclose or leak any confidential information obtained from the other party in connection with this Agreement, except as required by law. This obligation shall survive termination of this Agreement.
 
-## 13. Handling of Personal Information
+## 11. Handling of Personal Information
 
 Party A shall handle any personal information entrusted by Party B solely within the scope of this Agreement and shall not provide it to third parties without prior written consent from Party B.
 
-## 14. Transfer of Ownership and Risk
+## 12. Transfer of Ownership and Risk
 
 Ownership and intellectual property rights of the Deliverables shall be transferred from Party A to Party B when Party B has fully paid the outsourcing fee.
 
-## 15. Inspection
+## 13. Inspection
 
 Party B shall inspect the Deliverables within twenty (20) business days of delivery and notify Party A of any defects. If no notice is given within such period, the Deliverables shall be deemed accepted.
 
-## 16. Warranty and Liability
+## 14. Warranty and Liability
 
 1. Party A warrants that the Deliverables conform to the agreed specifications and are free from defects.
 2. The warranty period shall be one (1) year from the date of delivery.
 3. If defects are found within the warranty period, Party A shall, at its own cost and responsibility, correct or repair the Deliverables.
 
-## 17. Maintenance Services
+## 15. Maintenance Services
 
 After expiration of the warranty period, any maintenance or technical support shall be subject to a separate agreement.
 
-## 18. Copyright
+## 16. Copyright
 
 1. **Copyright of Newly Developed Features**
    All copyrights and ownership rights to newly developed features under this Agreement shall belong exclusively to Party B. Party B may freely use, modify, and license such Deliverables, including granting rights to third parties.
@@ -94,7 +86,7 @@ After expiration of the warranty period, any maintenance or technical support sh
    - Reusable components developed by Party A for other projects
    - General user interface elements and layouts
 
-## 19. Liability and Compensation
+## 17. Liability and Compensation
 
 1. **Liability for Damages**
    Party A shall be liable for damages arising from infringement of third-party rights or defects in the Deliverables, provided that such liability shall be limited to 200% of the total amount of the outsourcing fee.
@@ -109,11 +101,11 @@ After expiration of the warranty period, any maintenance or technical support sh
    - Damages caused by improper use or operation by Party B
    - Damages caused by unauthorized access or tampering by third parties
 
-## 20. Term of Agreement
+## 18. Term of Agreement
 
 The term of this Agreement shall be from **[Date]** to **[Date]**.
 
-## 21. Termination
+## 19. Termination
 
 1. **Termination for Material Breach**
    Either party may immediately terminate this Agreement without notice if the other party commits a material breach, suspends payment, enters into bankruptcy or similar proceedings, or otherwise becomes unable to perform this Agreement.
@@ -131,15 +123,15 @@ The term of this Agreement shall be from **[Date]** to **[Date]**.
 4. **Effect of Termination**
    Termination of this Agreement shall not relieve either party of obligations incurred prior to termination.
 
-## 22. Non-Assignment
+## 20. Non-Assignment
 
 Neither party may assign its rights or obligations under this Agreement to a third party without the prior written consent of the other party.
 
-## 23. Good Faith Consultation
+## 21. Good Faith Consultation
 
 Any matters not stipulated in this Agreement shall be resolved by mutual consultation in good faith between the parties.
 
-## 24. Governing Law and Jurisdiction
+## 22. Governing Law and Jurisdiction
 
 This Agreement shall be governed by the laws of Japan, and the exclusive jurisdiction for any disputes arising hereunder shall be the courts of Tokyo, Japan.
 

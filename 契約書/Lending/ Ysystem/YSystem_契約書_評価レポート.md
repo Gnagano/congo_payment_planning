@@ -1,6 +1,6 @@
 # YSystem ソフトウェア開発契約書 最終評価レポート
 
-**評価日**: 2025 年 1 月 27 日  
+**評価日**: 2025 年 9 月 24 日  
 **評価対象**: Software Development Agreement (YSystem) - 最終修正版  
 **評価者**: CURIOX SOLUTIONS LIMITED  
 **バージョン**: 3.0（賠償責任上限 200% 設定版）
